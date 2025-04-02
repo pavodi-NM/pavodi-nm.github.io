@@ -1,0 +1,5 @@
+yaml
+psutil 
+requests 
+tqdm
+ultralytics
