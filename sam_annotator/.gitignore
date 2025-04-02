@@ -1,0 +1,21 @@
+# Ignore weights directory (large model files)
+weights/
+**/weights/
+
+# Ignore output directory (generated content)
+output/
+**/output/
+
+# Other common files to ignore
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.DS_Store
