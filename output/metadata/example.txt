@@ -1,4 +1,0 @@
-num_annotations: 1
-class_distribution: {'0': 0, '1': 1, '2': 0, '3': 0}
-image_dimensions: {'original': (512, 512), 'display': (512, 512)}
-scale_factors: {'x': 1.0, 'y': 1.0}
