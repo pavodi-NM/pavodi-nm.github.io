@@ -248,9 +248,16 @@ header {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center;
     border: 4px solid var(--highlight-bg);
     margin-bottom: 1.5rem;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
 .bio {

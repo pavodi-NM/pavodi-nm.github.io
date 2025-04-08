@@ -1,1 +1,9 @@
-wei
+   weights/
+   *.pth
+   *.pt
+   *.bin
+   *.h5
+   *.onnx
+   *.model
+
+bfg-1.14.0.jar
